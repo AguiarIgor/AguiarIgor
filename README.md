@@ -4,8 +4,10 @@
 <h4>Um garoto muito interessado em desenvolvimento de software<br/>e tecnologia, querendo aprender com diversas experiências e métodos.</h4>
 
 <div>
+  <img src="IF.png" alt="IF" width="10"/> Cursando Informátia no Instituto Federal de São Paulo - IFSP.
   📖 Estudando Web em Cursos Online.
 </div>
+
 
 
 ### Conhecimento de Tecnologias:
@@ -24,13 +26,18 @@
 ### Contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/igor-de-almeida-aguiar-developer/">
-    <img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/igor-de-almeida-aguiar-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href = "mailto:aguiarigor365@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
+<br/>
+<br/>
+
 <div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=AguiarIgor&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarIgor&layout=compact&langs_count=16&theme=nightowl"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=AguiarIgor&show_icons=true&theme=nightowl&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarIgor&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
