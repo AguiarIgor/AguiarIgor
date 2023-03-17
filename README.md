@@ -4,8 +4,8 @@
 <h4>Um garoto muito interessado em desenvolvimento de software<br/>e tecnologia, querendo aprender com diversas experiências e métodos.</h4>
 
 <div>
-  <img src="IF.png" alt="IF" width="10"/> Cursando Informátia no Instituto Federal de São Paulo - IFSP.
-  📖 Estudando Web em Cursos Online.
+  <p><img src="IF_Icon.png" alt="IF" width="12" height="12"> Cursando Informátia no Instituto Federal de São Paulo - IFSP.</p>
+  <p>📖 Estudando Web em Cursos Online.</p>
 </div>
 
 
